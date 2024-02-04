@@ -1,0 +1,20 @@
+[
+        { 
+        "name":"Mango",
+        "price":60,
+         "description":"kashmiri Apples",
+         "rating":5,
+         "image":[
+             {
+                 "public_id": "products/testimonial-2",
+                 "url": "https://sagar018329.github.io/sagar/img/testimonial-2.jpg"
+ 
+             }
+         ],
+         "category":"Foods",
+         "seller":"sagar",
+         "stock":50,
+         "numOfReviews":32,
+         "reviews":[]
+        }
+]
